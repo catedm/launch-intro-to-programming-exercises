@@ -1,0 +1,1 @@
+Pratice opening and writing into files in irb.
